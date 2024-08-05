@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nyax_console", "nyax_console\nyax_console.csproj", "{4C39D5A8-5474-454B-ADFD-4BEC011D991B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C39D5A8-5474-454B-ADFD-4BEC011D991B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C39D5A8-5474-454B-ADFD-4BEC011D991B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C39D5A8-5474-454B-ADFD-4BEC011D991B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C39D5A8-5474-454B-ADFD-4BEC011D991B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
